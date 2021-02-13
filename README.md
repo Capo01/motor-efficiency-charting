@@ -7,6 +7,3 @@ https://things-in-motion.blogspot.com/2019/03/basic-bldc-pmsm-efficiency-and-pow
 To view this Jupyter Notebook in your browser use the link below.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Capo01/motor-efficiency-charting.git/HEAD)
-
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/Capo01/motor-efficiency-charting.git/HEAD
