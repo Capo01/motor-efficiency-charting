@@ -4,5 +4,4 @@ channels:
 dependencies:
   - numpy
   - plotly
-  - warnings
-  - chart_studio
+  - chart-studio
