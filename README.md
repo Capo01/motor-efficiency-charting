@@ -2,7 +2,7 @@
 
 For details refer to the blog post at the link below.
 
-
+https://things-in-motion.blogspot.com/2019/03/basic-bldc-pmsm-efficiency-and-power.html
 
 To view this Jupyter Notebook in your browser use the link below.
 
